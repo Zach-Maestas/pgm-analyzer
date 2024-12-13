@@ -15,14 +15,14 @@
             "name": "CS_214_Project",
             "request": "launch",
             "mainClass": "CS_214_Project",
-            "projectName": "pa9-Zach-Maestas"
+            "projectName": "pgm-analyzer"
         },
         {
             "type": "java",
             "name": "pa9-run-3",
             "request": "launch",
             "mainClass": "CS_214_Project",
-            "projectName": "pa9-Zach-Maestas",
+            "projectName": "pgm-analyzer",
             "args": [
                 "input_files/train/train.txt",
                 "input_files/test/test.txt",
@@ -34,7 +34,7 @@
             "name": "pa9-run-2",
             "request": "launch",
             "mainClass": "CS_214_Project",
-            "projectName": "pa9-Zach-Maestas",
+            "projectName": "pgm-analyzer",
             "args": [
                 "input_files/train/train.txt",
                 "input_files/test/test.txt",
