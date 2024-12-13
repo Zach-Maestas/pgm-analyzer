@@ -1,0 +1,8 @@
+input_files/class1_1.pgm
+input_files/class1_2.pgm
+input_files/class2_1.pgm
+input_files/class3_1.pgm
+input_files/class3_2.pgm
+input_files/class4_1.pgm
+input_files/class4_2.pgm
+input_files/test_files/test_quality_analyzer/class_invalid.pgm

@@ -1,0 +1,2 @@
+test_analyzer/header_mismatch1.pgm
+test_analyzer/header_mismatch2.pgm

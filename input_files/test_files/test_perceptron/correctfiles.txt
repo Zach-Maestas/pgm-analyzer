@@ -1,0 +1,7 @@
+input_files/test_files/test_perceptron/class1_1.pgm
+input_files/test_files/test_perceptron/class1_2.pgm
+input_files/test_files/test_perceptron/class2_1.pgm
+input_files/test_files/test_perceptron/class3_1.pgm
+input_files/test_files/test_perceptron/class3_2.pgm
+input_files/test_files/test_perceptron/class4_1.pgm
+input_files/test_files/test_perceptron/class4_2.pgm

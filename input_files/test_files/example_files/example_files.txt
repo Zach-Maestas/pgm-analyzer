@@ -1,0 +1,7 @@
+input_files/test_files/example_files/example1.pgm
+input_files/test_files/example_files/example2.pgm
+input_files/test_files/example_files/example3.pgm
+input_files/test_files/example_files/example4.pgm
+input_files/test_files/example_files/example5.pgm
+input_files/test_files/example_files/example6.pgm
+input_files/test_files/example_files/example7.pgm

@@ -1,0 +1,2 @@
+test_analyzer/example1.pgm
+test_analyzer/example2.pgm

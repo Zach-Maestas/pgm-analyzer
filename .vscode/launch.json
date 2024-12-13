@@ -1,0 +1,45 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "CS_214_Project",
+            "request": "launch",
+            "mainClass": "CS_214_Project",
+            "projectName": "pa9-Zach-Maestas"
+        },
+        {
+            "type": "java",
+            "name": "pa9-run-3",
+            "request": "launch",
+            "mainClass": "CS_214_Project",
+            "projectName": "pa9-Zach-Maestas",
+            "args": [
+                "input_files/train/train.txt",
+                "input_files/test/test.txt",
+                "3"
+            ],
+        },
+        {
+            "type": "java",
+            "name": "pa9-run-2",
+            "request": "launch",
+            "mainClass": "CS_214_Project",
+            "projectName": "pa9-Zach-Maestas",
+            "args": [
+                "input_files/train/train.txt",
+                "input_files/test/test.txt",
+                "2"
+            ],
+        }
+    ]
+}
