@@ -98,7 +98,7 @@ src/
    ```
 3. Run the main application:
    ```bash
-   java src/AppRunner <training-images-file> <test-images-file> <target-num-clusters>
+   gradle run -q --args="'<training-images-file>' '<test-images-file>' '<target-num-clusters>'"
    ```
 
 ### 2. **Input Files**
