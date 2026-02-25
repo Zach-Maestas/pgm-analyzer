@@ -138,17 +138,5 @@ class0_14.pgm class0_15.pgm
 
 ---
 
-## Future Enhancements
-- Add support for colored image formats like PNG.
-- Implement additional clustering metrics.
-- Create a web interface using Node.js to visualize clustering results.
-
----
-
-## Contributions
-Contributions are welcome! Please fork the repository and submit a pull request for any improvements or suggestions.
-
----
-
 ## Acknowledgments
 This project was originally part of a GitHub Classroom assignment and has been refined for my personal portfolio. Special thanks to the course instructors and teaching assistants for their guidance.
